@@ -32,27 +32,7 @@ zaktualizowania danych danego wpisu.
 #### Formularz
 
 Ekran posiada:
-- Tytuł - „Add plant” reezed,
-50
-- Dartz,
-51
-- Floor,
-52
-- Bloc Test
-53
-- 
-54
-Oceniane będzie
-55
-- Zgodność z wymaganiami oraz ich interpretacja
-56
-- Rozpisany plan zadań
-57
-- Czystość kodu i semantyka
-58
-- Podejście do architektury aplikacji
-59
-- Ogólny wygląd aplikacjilub „Update plant”, w zależności od trybu
+- Tytuł - „Add plant” lub „Update plant”, w zależności od trybu
 - Pole tekstowe do wpisania nazwy rośliny
 - Pole z możliwością wyboru typu rośliny
 - Pole z możliwością wyboru daty zasadzenia
@@ -64,14 +44,14 @@ Przycisk „Save” powinien spowodować zapisanie danych i powrót na listę ro
 Na liście roślin powinien wyświetlić się snackbar z potwierdzeniem dodania
 rośliny, który zawiera jej nazwę.
 
-Prośba o wykorzystanie:
+#### Prośba o wykorzystanie:
 - Bloc,
 - Freezed,
 - Dartz,
 - Floor,
 - Bloc Test
  
-Oceniane będzie
+#### Oceniane będzie
 - Zgodność z wymaganiami oraz ich interpretacja
 - Rozpisany plan zadań
 - Czystość kodu i semantyka
