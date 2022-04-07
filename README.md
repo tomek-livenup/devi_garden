@@ -45,11 +45,11 @@ Na liście roślin powinien wyświetlić się snackbar z potwierdzeniem dodania
 rośliny, który zawiera jej nazwę.
 
 #### Prośba o wykorzystanie:
-- Bloc,
-- Freezed,
-- Dartz,
-- Floor,
-- Bloc Test
+- [x] Bloc,
+- [ ] Freezed,
+- [ ] Dartz,
+- [x] Floor,
+- [ ] Bloc Test
  
 #### Oceniane będzie
 - Zgodność z wymaganiami oraz ich interpretacja
